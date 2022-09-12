@@ -25,7 +25,7 @@
 
 ### Frameworks and libraries
 <p>
-   <img alt="Django" src="https://img.shields.io/badge/Django-1572B6.svg?logo=django&logoColor=white">
+   <img alt="Django" src="https://img.shields.io/badge/Django-092D1F.svg?logo=django&logoColor=white">
    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
    <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
