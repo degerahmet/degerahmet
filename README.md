@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Ahmet!+👋;I'm+self-taught+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Ahmet!+👋;I'm+self-thought+Full+Stack+Developer)](https://git.io/typing-svg)
 
 ![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=degerahmet&theme=github_dark&show_icons=true&count_private=true&title_color=C96702&bg_color=03071E&icon_color=AACCEE&text_color=8C7C73)
 
