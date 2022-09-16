@@ -4,6 +4,7 @@
 ![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=degerahmet&theme=github_dark&show_icons=true&count_private=true&title_color=C96702&bg_color=03071E&icon_color=AACCEE&text_color=8C7C73)
 
 - 🔭 I'm currently working on [Scistone Components](https://github.com/scistone/scistone-react-components)
+- 📖 I'm currently studying Computer Science.
 - 🌱 I'm currently learning again and again what I knew.
 - 💬 Ask me about Python, Javascript, Django REST Framework, and React.js.
 
