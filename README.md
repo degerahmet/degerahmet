@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a **Software Developer** with a passion for building s
 - 🛠️ Frameworks & Tools: Django, NextJS, ReactJS, TailwindCSS, FastAPI
 - 💡 Interests: **Web3**, NLP, Full-Stack Development, and Open Source
 - 🌍 Dream: Build an application used by millions worldwide
-- 📧 Contact: [degerahmet.dev@gmail.com](mailto:ahmet@ahmetdeger.dev)
+- 📧 Contact: [ahmet@ahmetdeger.dev](mailto:ahmet@ahmetdeger.dev)
 
 ---
 
