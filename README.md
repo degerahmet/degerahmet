@@ -71,7 +71,7 @@ An NLP-powered application built with **NextJS**, **TailwindCSS**, and **NextAPI
 
 ## 🌐 Connect with Me
 
-- 🌐 Personal Website: [degerahmet.dev](https://ahmetdeger.dev)
+- 🌐 Personal Website: [ahmetdeger.dev](https://ahmetdeger.dev)
 - 💼 LinkedIn: [linkedin.com/in/ahmetdeger](https://linkedin.com/in/ahmetdeger)
 - 📧 Email: [ahmet@ahmetdeger.dev](mailto:ahmet@ahmetdeger.dev)
 
