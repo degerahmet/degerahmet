@@ -6,7 +6,6 @@ Welcome to my GitHub! I'm a **Software Developer** with a passion for building s
 
 ## 🚀 About Me
 
-- 🎓 Pursuing AAS-T in Software Development at Bellevue College
 - 🌟 Tech Stack: Python, JavaScript, TypeScript, C#, Java, SQL
 - 🛠️ Frameworks & Tools: Django, Flask, NestJS, NextJS, TailwindCSS, FastAPI
 - 💡 Interests: **Web3**, NLP, Full-Stack Development, and Open Source
