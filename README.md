@@ -1,49 +1,72 @@
-# Hi there, I'm Ahmet 👋
+# 👋 Hi, I'm Ahmet
 
-Welcome to my GitHub! I'm a **Software Developer** with a passion for building scalable, user-focused applications and exploring the intersections of **Web3**, **AI**, and modern software development. 
+I build software by shipping real products and learning in public.
 
----
+Most of my work focuses on **backend systems**, **APIs**, and **scalable architectures**, with a growing interest in **AI-powered products** and **developer tooling**.
 
-## 🚀 About Me
-
-- 🌟 Tech Stack: Python, JavaScript, TypeScript, C#, Java, SQL
-- 🛠️ Frameworks & Tools: Django, Flask, NestJS, NextJS, TailwindCSS, FastAPI
-- 💡 Interests: **Web3**, NLP, Full-Stack Development, and Open Source
-- 🌍 Dream: Build an application used by millions worldwide
-- 📧 Contact: [ahmet@ahmetdeger.dev](mailto:ahmet@ahmetdeger.dev)
+This GitHub is my workshop; experiments, production systems, and things I’m actively learning.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧠 What I care about
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- Designing clean, scalable backend systems  
+- Turning messy ideas into working products  
+- Learning by building, not just reading  
+- Shipping > over-engineering  
+- Understanding *why* things work, not just *how*
 
 ---
 
-## 🌐 Connect with Me
+## 🌍 Open source & writing
 
-- 🌐 Personal Website: [ahmetdeger.dev](https://ahmetdeger.dev)
-- 💼 LinkedIn: [linkedin.com/in/ahmetdeger](https://linkedin.com/in/ahmetdeger)
-- 📧 Email: [ahmet@ahmetdeger.dev](mailto:ahmet@ahmetdeger.dev)
+- Actively contributing **Turkish translations for Ubuntu**  
+  → [https://launchpad.net/~ahmetdeger ](https://launchpad.net/~ahmetdeger ) 
+
+- Writing about my technical learnings, experiments, and takeaways on **Medium**  
+  → [https://medium.com/@ahmetdeger ](https://medium.com/@ahmetdeger) 
+
+I enjoy sharing what I learn, especially the parts that aren’t obvious from docs.
 
 ---
 
-## 🌟 Quote That Inspires Me
+## 🛠 Tech I work with
 
-> "The only way to do great work is to love what you do." – Steve Jobs
+**Backend & Infra**
+- Python, TypeScript
+- Django, FastAPI, NestJS, Express
+- PostgreSQL, Redis
+- Docker, AWS, CI/CD
+
+**Frontend (when needed)**
+- React, Next.js
+- Tailwind CSS
+
+**AI & Automation**
+- OpenAI API, LangChain
+- Prompt engineering
+- Agent-based workflows
+
+---
+
+## 🌱 Currently
+
+- Exploring **Go** by building small tools and services  
+- Working on multi-tenant platforms and real-time systems  
+- Experimenting with AI agents in production-like environments  
+
+---
+
+## 🚀 Philosophy
+
+I believe good engineers:
+- build things that people actually use  
+- understand trade-offs instead of chasing trends  
+- learn continuously by breaking and fixing systems  
+
+If something here helps you, feel free to use it.
+
+---
+
+📫 ahmet@deger.me  
+🌐 https://ahmetdeger.dev
